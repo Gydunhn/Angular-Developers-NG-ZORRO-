@@ -2,9 +2,9 @@
   "name": "angular-ng-zorro-essentials",
   "displayName": "Angular NG-ZORRO Essentials",
   "description": "The Essentials Extensions for Angular + NG-ZORRO Development.",
-  "icon": "img/angular-ng-zorro.png",
+  "icon": "img/essentials.png",
   "galleryBanner": {
-    "color": "#ffffff",
+    "color": "#f1f1f1",
     "theme": "light"
   },
   "license": "LICENSE.md",
@@ -52,7 +52,7 @@
     "Code Quality",
     "Gydunhn"
   ],
-  "version": "0.1.0",
+  "version": "1.0.0",
   "publisher": "Gydunhn",
   "engines": {
     "vscode": "^1.35.0"
