@@ -73,4 +73,6 @@ This extension pack includes the following essential extensions:
 | HTML-Essentials           | [![Badge for version for Visual Studio Code extension](https://flat.badgen.net/vs-marketplace/v/Gydunhn.html-essentials?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.html-essentials) [![Installs](https://flat.badgen.net/vs-marketplace/i/Gydunhn.html-essentials?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.html-essentials) [![Rating](https://flat.badgen.net/vs-marketplace/rating/Gydunhn.html-essentials?color=blue)](https://marketplace.visualstudio.com/items?itemName=Gydunhn.html-essentials)                               |
 | Dracula Theme Official    | [![Badge for version for Visual Studio Code extension](https://flat.badgen.net/vs-marketplace/v/dracula-theme.theme-dracula?color=blue)](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) [![Installs](https://flat.badgen.net/vs-marketplace/i/dracula-theme.theme-dracula?color=blue)](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) [![Rating](https://flat.badgen.net/vs-marketplace/rating/dracula-theme.theme-dracula?color=blue)](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)       |
 
-## See the [CHANGELOG](CHANGELOG.md) for the latest changes
+---
+
+- See the [CHANGELOG](CHANGELOG.md) for the latest changes
